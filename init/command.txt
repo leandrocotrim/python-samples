@@ -1,0 +1,13 @@
+cd folte_file
+py file_name.py
+
+py + ENTER -> entra no terminal
+
+^Z -> CTRL + Z
+ENTER -> volta o terminal
+
+pip -> gerenciador de pacotes do python
+
+ipython -> entrar em um terminal elegante, exit sai para o cmd.
+
+encode do arquivo pode causar erro no python.
